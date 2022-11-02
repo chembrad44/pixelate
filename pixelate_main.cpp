@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2015-2018 Brad Bahls.  All Rights Reserved.
+ * Copyright (c) 2015-2022 Brad Bahls.  All Rights Reserved.
  * Unauthorized copying of this file by any medium is strictly prohibited
  * Proprietary and confidential
  *
