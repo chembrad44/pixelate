@@ -1,0 +1,11 @@
+syntax: glob
+
+*.swp
+*.o
+
+# Ignore any generated image files
+*.png
+*.jpg
+*.gif
+
+pixelate
