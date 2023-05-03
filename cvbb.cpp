@@ -127,6 +127,7 @@ void display(
 {
     if (image.data)
     {
+        //cv::dilate(image, image, cv::Mat(), cv::Point(-1, -1), 5, 1, 1);
         cv::imshow(title,image);
         cv::waitKey(time);
     }
